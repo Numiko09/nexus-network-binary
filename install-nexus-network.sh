@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL будет обновлён после создания релиза
-BINARY_URL="https://github.com/Numiko09/nexus-network-binary/releases/download/v0.1.0/nexus-network"
+BINARY_URL="https://github.com/Numiko09/nexus-network-binary/releases/download/v0.1.1/nexus-network"
 BINARY_NAME="nexus-network"
 INSTALL_DIR="/data/data/com.termux/files/usr/bin"
 
